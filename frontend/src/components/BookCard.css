@@ -1,0 +1,33 @@
+.card {
+  max-width: 300px;
+  margin: auto;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.custom-stick {
+  margin-top: auto;
+}
+
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-action-area {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  /* Align content to the top */
+}
