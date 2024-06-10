@@ -33,6 +33,7 @@ query Books {
 ```
 
 ### Styling Guidelines
-![alt text](https://github.com/ronald-kimeli/fullstack-home-test/blob/main/frontend/public/images/Screenshot from 2024-06-11 00-27-58.png?raw=true)
+<img width="961" alt="Screenshot from 2024-06-11 00-27-58" src="https://github.com/ronald-kimeli/fullstack-home-test/blob/main/frontend/public/images">
+
 
 
