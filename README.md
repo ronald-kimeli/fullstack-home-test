@@ -33,6 +33,6 @@ query Books {
 ```
 
 ### Styling Guidelines
-![alt text](https://github.com/ronald-kimeli/laravel-postcodes-api/blob/master/frontend/public/images/Screenshot from 2024-06-11 00-27-58.png?raw=true)
+![alt text](https://github.com/ronald-kimeli/fullstack-home-test/blob/main/frontend/public/images/Screenshot from 2024-06-11 00-27-58.png?raw=true)
 
 
