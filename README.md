@@ -1,4 +1,3 @@
- ![svgviewer-output](https://github.com/ElloTechnology/backend_takehome/assets/3518127/561bc8d4-bffc-4360-b9ea-61e876bcec93)
 
 # Access
 To get access to data that you will use for this challenge you can switch into the `src/backend` and also `src/frontend` folder and run
@@ -32,7 +31,7 @@ query Books {
 }
 ```
 
-### Styling Guidelines
+### Quick Overview
 <img width="961" alt="Screenshot from 2024-06-11 00-27-58" src="https://github.com/ronald-kimeli/fullstack-home-test/blob/main/frontend/public/images/Screenshot%20from%202024-06-11%2000-27-58.png">
 
 
