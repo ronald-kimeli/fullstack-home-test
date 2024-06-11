@@ -32,7 +32,7 @@ query Books {
 ```
 
 ### Quick Overview
-<img width="961" alt="Screenshot from 2024-06-11 00-27-58" src="https://github.com/ronald-kimeli/fullstack-home-test/blob/main/frontend/public/images/Screenshot%20from%202024-06-11%2000-27-58.png">
+<img width="auto" alt="Screenshot from 2024-06-11 00-27-58" src="https://github.com/ronald-kimeli/fullstack-home-test/blob/main/frontend/public/images/Screenshot%20from%202024-06-11%2000-27-58.png">
 
 
 
